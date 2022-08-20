@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Puplications"
+title: "Publications"
 categories: documentation
 tags: [documentation,sample]
-image: city-1.jpg
+image: hopper_sm.png
 ---
 
 #### [Lauren's Google Scholar profile](https://scholar.google.com/citations?user=Iik-8q8AAAAJ)
