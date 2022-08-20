@@ -13,7 +13,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           "Buckley Group"
 logo: /assets/images/logo.png
 description:	       "Functional ecology, evolution, and biogeography for changing environments"
-author:              "Buckley Group | Theme:Paul Le"
+author:              "Theme:Paul Le"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
