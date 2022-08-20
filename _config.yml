@@ -11,6 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Buckley Group"
+logo: /assets/images/logo.png
 description:	       "Functional ecology, evolution, and biogeography for changing environments"
 author:              "Buckley Group | Theme:Paul Le"
 
