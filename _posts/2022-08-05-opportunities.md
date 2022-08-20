@@ -3,7 +3,7 @@ layout: post
 title: "Opportunities to join our group"
 categories: facts
 tags: [sample]
-image: cuba-2.jpg
+image: eq_sm.png
 ---
 
 ### Postdocs
