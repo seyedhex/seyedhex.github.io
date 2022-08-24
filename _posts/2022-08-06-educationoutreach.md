@@ -3,7 +3,7 @@ layout: post
 title: "Education and Outreach"
 categories: documentation
 tags: [documentation,sample]
-image: cuba-1.jpg
+image: head_alexander.png
 ---
 
 We aim to broadly disseminate our research to enhance understanding of the ecological and evolutionary impacts of climate change to students and the public.
