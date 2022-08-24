@@ -6,10 +6,10 @@ tags: [sample]
 image: eq_sm.png
 ---
 
-### Postdocs
+## Postdocs
 Potential postdocs interested in pursuing funding together are encouraged to contact Lauren.  One excellent opportunity is the [Washington Research Foundation postdoc program](https://www.wrfseattle.org/grants/wrf-postdoctoral-fellowships/).
 
-### Graduate Students
+## Graduate Students
 - WE ARE NOT PLANNING TO RECRUIT ADDITIONAL GRADUATE STUDENTS to start in Fall 2022. 
 - The group is especially interested in recruiting students with quantitative skills (e.g., mathematics or computer science training, experience with a computing language such as R).  We also prioritize students interested in examining montane grasshopper or butterfly development and demography in the context of a resurvey project aimed at understanding responses to recent climate change.
 - Please include “POTENTIAL GRAD” in the subject line of any email to Lauren, so that she can better keep track of inquiries.
@@ -25,5 +25,5 @@ Students interested in joining the lab are encouraged to apply for external fell
 - a description of possible graduate research topics and approaches highlighting why the Buckley group would be a good fit for this research
 - a description of career goals
 
-### Undergraduates and research scientists
+## Undergraduates and research scientists
 There are numerous research and employment opportunities for motivated undergraduate students to both conduct independent projects and to assist in ongoing research conducted by members of our research group. Opportunities include assisting in field research and lab physiology, assembling and analyzing databases, and advancing models. Interested undergraduates should contact Lauren by email and include a brief summary of research interests and experience.

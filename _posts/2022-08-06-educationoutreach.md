@@ -8,11 +8,11 @@ image: cuba-1.jpg
 
 We aim to broadly disseminate our research to enhance understanding of the ecological and evolutionary impacts of climate change to students and the public.
 
-### Education and outreach resources
-#### TrEnCh-ed
+## Education and outreach resources
+### TrEnCh-ed
 We have created the [TrEnCh-ed](https://trench-ed.trenchproject.com/) website including interactive R Shiny applications and associated tutorials to allow students and others interested to explore the ecological and evolutionary impacts of climate change through interacting with data.
 
-#### TrEnCh-ir
+### TrEnCh-ir
 TrEnCh-ir education
 
 Our @trenchproject instagram feed includes thermal images exploring the thermal complexity of life. Please get in touch with Lauren if you have images you’d like to contribute or if you’d like to borrow a camera to take images to contribute. If you’d like to contribute, you can either post directly to the account or we’ll provide a Google Drive folder for you to upload images to and we can post on your behalf.
@@ -21,8 +21,8 @@ Any images that highlight the thermal complexity of life are a good fit. Example
 
 We’ve taken most of the images using an inexpensive FLIR ONE camera attached to a phone. The camera’s hybrid visual IR images can facilitate interpretation over traditional IR cameras. We’ve also been using FLIR ONEs since we’re much more likely to carry around the small attachment relative to a traditional IR camera. However, images from any IR camera are welcome. We also welcome visual images that can be paired with IR images to aid interpretation.
 
-### Biophysical ecology tutorials
+## Biophysical ecology tutorials
 We’ve developed a series of [tutorials](https://bookdown.org/huckley/Physical_Processes_In_Ecosystems/) aimed at graduate students interested in biophysical ecology. The tutorials originate from a 1979 course at UW entitled “Physical Prcoesses in Ecosystems” and Mike Kearney, U Melbourne, contributed additional tutorials. The tutorials align with the TrenchR package.
 
-### Undergraduate course resources
+## Undergraduate course resources
 Professor Buckley teaches a course in Physiological Ecology and Evolution as well as a course in Climate Change Biology. We aim to collaborative develop course resources.  
