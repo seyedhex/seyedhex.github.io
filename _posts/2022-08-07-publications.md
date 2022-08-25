@@ -54,7 +54,7 @@ Levy O, Buckley LB, Keitt TH, Smith C, Boateng K, Davina K, and Angilletta MJ. 2
 Buckley LB, Ehrenberger JC, and Angilletta MJ. 2015. Thermoregulatory behavior limits local adaptation of thermal niches and confers sensitivity to climate change. Functional Ecology 29: 1038-1047.
 
 ## Select publications by topic
-#### Mechanistic niche models
+### Mechanistic niche models
 Buckley LB, Urban MC, Angilletta MJ, Crozier LG, Rissler LJ, and Sears MW. 2010. Can mechanism inform species distribution models? Ecology Letters 13:1041-1054. 
 
 Buckley LB. 2008. Linking traits to energetics and population dynamics to predict lizard ranges in changing environments. American Naturalist 171:E1-E19.
