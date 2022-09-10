@@ -60,7 +60,7 @@ Buckley LB, Urban MC, Angilletta MJ, Crozier LG, Rissler LJ, and Sears MW. 2010.
 Buckley LB. 2008. Linking traits to energetics and population dynamics to predict lizard ranges in changing environments. American Naturalist 171:E1-E19.
 
 ### Thermal sensitivity
-Buckley LB. Temperature-sensitive development shapes insect phenological responses to climate change. Current Opinion in Insect Science: 100897.
+Buckley LB. 2022. Temperature-sensitive development shapes insect phenological responses to climate change. Current Opinion in Insect Science: 100897.
 
 Buckley LB and Kingsolver JG. 2021. Evolution of thermal sensitivity in variable and changing environments. Annual Review of Ecology and Evolution 52: 563-586.
 

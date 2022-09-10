@@ -9,13 +9,13 @@ image: head_alexander.png
 We aim to broadly disseminate our research to enhance understanding of the ecological and evolutionary impacts of climate change to students and the public.
 
 ## Education and outreach resources
-<img align="left" height="150px" src="/assets/img/logo/TRENCH_Logo_Circle-TrenchEd.png" alt="TrEnCh project logo">
+<img align="left" height="100px" src="/assets/img/logo/TRENCH_Logo_Circle-TrenchEd.png" alt="TrEnCh project logo">
 ### TrEnCh-ed
-We have created the [TrEnCh-ed](https://trench-ed.trenchproject.com/) website including interactive R Shiny applications and associated tutorials to allow students and others interested to explore the ecological and evolutionary impacts of climate change through interacting with data.
+We have created the [TrEnCh-ed](https://trench-ed.trenchproject.com/) website including interactive R Shiny applications and associated tutorials to allow students and others interested to explore the ecological and evolutionary impacts of climate change through interacting with data. We offer teaching workshops introducing the resources.
 
-<img align="left" height="150px" src="/assets/img/logo/TRENCH_Logo_Circle-TrenchIR.png" alt="TrEnCh project logo">
+<img align="left" height="100px" src="/assets/img/logo/TRENCH_Logo_Circle-TrenchIR.png" alt="TrEnCh project logo">
 ### TrEnCh-ir
-TrEnCh-ir education
+Our [TrEnCh-ir](https://trench-ir.trenchproject.com/) offers conversion of FLIR images to more useful formats and a gallery of thermal images for research, outreach, and education. The site also includes educational activities using thermal images to visualize how organisms experience their thermal environment.
 
 Our @trenchproject instagram feed includes thermal images exploring the thermal complexity of life. Please get in touch with Lauren if you have images you’d like to contribute or if you’d like to borrow a camera to take images to contribute. If you’d like to contribute, you can either post directly to the account or we’ll provide a Google Drive folder for you to upload images to and we can post on your behalf.
 
