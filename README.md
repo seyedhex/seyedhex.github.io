@@ -1,4 +1,8 @@
 # Buckley Group webpage
+Uses [server side redirect from UW faculty page](https://itconnect.uw.edu/tools-services-support/storage-hosting/shared-hosting/redirecting-websites/server-based-redirect/).
+>RewriteEngine on
+
+>RewriteRule ^(.*)$ https://huckleylab.github.io/ 
 
 ### Directory Structure
 
