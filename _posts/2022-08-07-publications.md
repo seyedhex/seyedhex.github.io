@@ -40,7 +40,7 @@ Nufio CR and Buckley LB. 2019. Grasshopper phenological responses to climate gra
 
 Buckley LB, Nufio CR, Kirk EM, and Kingsolver JG. 2015. Developmental plasticity determines phenological responses to climate warming. Proceedings of the Royal Society B 282: 20150441.
 
-#### Sceloporus Lizard Climate Change Responses
+### Sceloporus Lizard Climate Change Responses
 Levy O, Borchert JD, Rusch TW, Buckley LB, and Angilletta MJ. 2017. Diminishing returns limit energetic costs of climate change. Ecology 98:1217-1228. 
 
 Telemeco, RS, Fletcher B, Levy O, Riley A, Rodriguez-Sanchez Y, Smith C, Teague C, Waters A, Angilletta MJ, and Buckley LB. 2016. Lizards fail to plastically adjust nesting behavior or thermal tolerance as needed to buffer populations from climate warming. Global Change Biology 23: 1075-1084.
