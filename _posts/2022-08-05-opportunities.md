@@ -39,7 +39,7 @@ Students will learn about biological responses to climate change, gain familiari
 
 Interest in climate change biology and the ability to conduct sometimes repetitive work reliably, to take initiative in research and problem solving, and to work well with a team is more important than past research experience, but candidates should have some familiarity with ecology, evolution, and/or physiology. The work schedule will be fairly flexible but students should be able to commit at least 5 hours a week. Members of groups underrepresented in science and students who have transferred from Edmonds College (since a project goal is to support Edmonds students transferring to UW) are particularly encouraged to apply. Interested students should send a resume and a brief summary of research interests and any research experience to Monica Sheffer (sheffer@uw.edu) and Lauren Buckley (lbuckley@uw.edu), preferably by January 20 for initial consideration but additional opportunities will be available in the spring. 
 
-### Jan 2023: RESEARCH TECHNICIAN: butterfly evolutionary responses to climate change
+### Winter / Spring 2023: RESEARCH TECHNICIAN: butterfly evolutionary responses to climate change
 Manage, coordinate, and conduct research activities for a project repeating historical butterfly research to examine ecological and evolution responses to climate change. The position is based in the research group of Professor Lauren Buckley in the University of Washington Department of Biology and funded by the National Science Foundation Organismal Responses to Climate Change Program.
 
 Impact: The position will facilitate research examining how thermal traits of larval and adult butterflies have been subject to natural selection and have evolved in response to recent climate change in Washington State.
@@ -64,7 +64,7 @@ POSITION MINIMUM SKILLS REQUIRED: Experience conducting field and/or laboratory 
 
 DESIRED: EDUCATION, EXPERIENCE AND SKILLS: Familiarity with biology relevant to understanding organismal responses to climate change; experience rearing and maintaining insects or growing plants in the lab; collecting or researching insects, particularly butterflies, in the field; experience collecting and assembling environmental data; experience with data analysis and data science workflows (e.g., version control); experience communicating science to scientific and general audiences. We do not expect that any one applicant will have all of the desired qualifications for this position.
 
-Application Process: Apply here. Applications should also send a single PDF consisting of (1) a cover letter outlining education and research interests and experiences as well as potential to contribute to the university's commitment to enhancing diversity, equity, and inclusion and (2) a CV to lbuckley@uw.edu with the subject “Butterfly research technologist application”.
+Application Process: Apply [here](https://uwhires.admin.washington.edu/ENG/Candidates/default.cfm?szCategory=jobprofile&szOrderID=217313). Applications should also send a single PDF consisting of (1) a cover letter outlining education and research interests and experiences as well as potential to contribute to the university's commitment to enhancing diversity, equity, and inclusion and (2) a CV to lbuckley@uw.edu with the subject “Butterfly research technologist application”.
 
 
 
