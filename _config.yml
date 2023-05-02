@@ -3,7 +3,7 @@
 # jekyll-paginate configuration
 paginate:            8
 
-# Build settings
+# Build settings 
 markdown:            kramdown
 highlighter:         rouge
 permalink:           /:title
