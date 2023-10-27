@@ -10,7 +10,7 @@ image: header_hopper.png
 Potential postdocs interested in pursuing funding together are encouraged to contact Lauren.  One excellent opportunity is the [Washington Research Foundation postdoc program](https://www.wrfseattle.org/grants/wrf-postdoctoral-fellowships/).
 
 ## Graduate Students
-- We primarily accept graduate students that have previous experience working with the group. Please get in touch if you are interested in exploring technician opportunities.
+- We primarily accept graduate students that have previous experience working with the group to ensure a mutual fit with the group and research questions before commiting to graduate study. Please get in touch if you are interested in exploring technician opportunities.
 - The group is especially interested in recruiting students with quantitative skills (e.g., mathematics or computer science training, experience with a computing language such as R).  We also prioritize students interested in contributing to our grasshopper or butterfly resurvey project aimed at understanding ecological and evolutionary responses to recent climate change.
 - Please include “POTENTIAL GRAD” in the subject line of any email to Lauren, so that she can better keep track of inquiries.
 
@@ -18,7 +18,7 @@ Most research in the group concerns functional ecology, evolution, and biogeogra
 
 Students can join the group through the [UW Department of Biology](https://www.biology.washington.edu/programs/graduate) or the [Quantitative Ecology and Resource Management (QERM)](https://quantitative.uw.edu/) interdisciplinary graduate program.  Other relevant programs at UW include the [Program on Climate Change (PCC)](https://pcc.uw.edu/) and the [eScience Institute](https://escience.washington.edu/).
 
-Students interested in joining the lab are encouraged to apply for external fellowships (e.g., National Science Foundation Graduate Research Fellowship, Environmental Protection Agency STAR Fellowship, Ford Foundation Predoctoral Diversity Fellowship). All prospective students should contact me by email. If it seems that you may be a good fit for my group, I will request the following materials:
+Students interested in joining the lab are encouraged to apply for external fellowships (e.g., National Science Foundation Graduate Research Fellowship, Environmental Protection Agency STAR Fellowship, Ford Foundation Predoctoral Diversity Fellowship). All prospective students should contact Lauren by email. If it seems that you may be a good fit for the group, Lauren will request the following materials:
 
 - a curriculum vitae
 - a description of research experience
@@ -26,12 +26,13 @@ Students interested in joining the lab are encouraged to apply for external fell
 - a description of career goals
 
 ## Undergraduates and research scientists
-There are numerous research and employment opportunities for motivated undergraduate students to both conduct independent projects and to assist in ongoing research conducted by members of our research group. Opportunities include assisting in field research and lab physiology, assembling and analyzing databases, and advancing models. Interested undergraduates should contact Lauren by email and include a brief summary of research interests and experience.
+There are numerous research and employment opportunities for motivated undergraduate students to both conduct independent projects and to assist in ongoing research conducted by members of our research group. Opportunities include assisting in field research and lab physiology, assembling and analyzing databases, and advancing models. Interested undergraduates should contact Lauren by email and include a brief summary of research interests and experience. We have opportunities for students familar with computational infrastructure (cloud computing and Docker).
 
-### Winter / Spring 2023 [CURRENTLY FILLED]: Undergraduate research opportunity: insect ecological and evolutionary responses to climate change
-The UW Biology research group led by Professor Lauren Buckley (https://huckleylab.github.io/) has paid positions open (winter and spring 2023) for UW undergraduate students to contribute to one or both of the following resurvey projects examining insect responses to recent climate change.
+### Undergraduate research opportunity: insect ecological and evolutionary responses to climate change 
+#### CURRENTLY FILLED. Positions generally open in early spring 
+The UW Biology research group led by Professor Lauren Buckley (https://huckleylab.github.io/) has paid positions for UW undergraduate students to contribute to one or both of the following resurvey projects examining insect responses to recent climate change.
 
-Grasshopper resurvey project: The grasshopper resurvey project uses field and lab experiments integrated with genomic and physiological approaches to examine how survival and fecundity constraints influence responses to environmental change. Students will primarily assist with rearing grasshoppers in environmental chambers and with physiological measurements under the mentorship of Dr. Monica Sheffer.
+Grasshopper resurvey project: The grasshopper resurvey project uses field and lab experiments integrated with genomic and physiological approaches to examine how survival and fecundity constraints influence responses to environmental change. Students will primarily assist with rearing grasshoppers in environmental chambers and with physiological measurements.
 
 Butterfly resurvey project: The butterfly resurvey project is testing how selection on butterfly traits has shifted in response to recent climate change. Students will primarily assist with rearing butterfly larvae in environmental chambers and in an experimental garden at the UW Center for Urban Horticulture and with physiological measurements under the mentorship of Professors Gwen Shlichta (Edmonds College) and Lauren Buckley.
 
