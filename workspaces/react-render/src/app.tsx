@@ -16,9 +16,9 @@ export function App() {
           <img src={preactLogo} class="logo preact" alt="Preact logo" />
         </a>
       </div>
-      <h1>Vite + Preact</h1>
+      <h1>Test</h1>
       <div class="card">
-        <button onClick={() => setCount((count) => count + 1)}>
+        <button onClick={() => setCount((count) => count + 5)}>
           count is {count}
         </button>
         <p>
@@ -28,6 +28,10 @@ export function App() {
       <p class="read-the-docs">
         Click on the Vite and Preact logos to learn more
       </p>
+      <Test number={10}text={"lorem ipsum"}></Test>
     </>
   )
+}
+function Test({text, number}: {text: string, number: number}) {
+  return <div>text is {text}, number is {number}</div>
 }
