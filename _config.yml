@@ -1,19 +1,31 @@
 # Site Build Settings
 
 # jekyll-paginate configuration
-paginate:            5
-
+paginate:
+            50
+# Collections for podcast and RSS feeds
+collections:
+  rss_entries:
+    output: true
+  podcast_entries:
+    output: true
+    permalink: /:collection/:name/
+    
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
 permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+future:              true
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Millennial"
-description:	       "a minimalist Jekyll theme for running a blog or publication"
-author:              "Paul Le"
+title:		           "Entangled Stories"
+description:	       "The History of Jewish-Christian-Muslim Relations in the Premodern Near East (course website, winter semester 2023)"
+author:              "Nathan Gibson"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+hide_related_posts: true
+hide_post_share: true
