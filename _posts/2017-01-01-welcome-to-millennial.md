@@ -4,7 +4,7 @@ title: "Welcome to Jerri's HomePage!"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
-image: cuba-1.jpg
+image: IMG_0543.PNG
 ---
 
 Hi! My name is Chen Jiarui, and I am 24 years old. I come from Wuxi, China. Currently, I am pursuing my studies at the Higher School of Economics in Russia, where I am majoring in Industrial Design.
