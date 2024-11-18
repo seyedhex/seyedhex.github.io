@@ -5,7 +5,7 @@ categories: facts
 tags: [sample]
 image: header_hopper.png
 ---
-We are recruitinting undergraduates and a research technician. See below.
+We are recruiting undergraduates and a research technician. See below.
 
 ## Postdocs
 Potential postdocs interested in pursuing funding together are encouraged to contact Lauren.  One excellent opportunity is the [Washington Research Foundation postdoc program](https://www.wrfseattle.org/grants/wrf-postdoctoral-fellowships/).
