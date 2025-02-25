@@ -27,16 +27,18 @@ Students interested in joining the lab are encouraged to apply for external fell
 - a description of career goals
 
 # OPEN POSITIONS: 
+## Feb 2025: Undergraduate Research Opportunities
+
 The Buckley Lab has paid or research credit positions open (spring and summer 2025) for UW undergraduate students to contribute to a butterfly resurvey project examining responses to recent climate change. The butterfly resurvey project is testing how selection on butterfly traits has shifted in response to recent climate change. Students will primarily assist with rearing butterfly larvae in environmental chambers and with physiological experiments. There will also be opportunities to participate in butterfly field studies in Central Washington.
 
-# Student Learning Benefit
+### Student Learning Benefit
 Students will learn about biological responses to climate change, gain familiarity with a variety of approaches in physiological ecology and evolution, and receive exposure to academic research and related career opportunities. Students may progress to conducting independent research and presenting the research at UW venues and beyond. 
 
-# Minimum Requirements
+### Minimum Requirements
 Interest in climate change biology and the ability to conduct sometimes repetitive work reliably, to take initiative in research and problem solving, and to work well with a team is more important than past research experience, but candidates should have some familiarity with ecology, evolution, and/or physiology. Students with a flexible schedule such that they can contribute variable amounts of effort depending on experimental needs are particularly encouraged to apply. Interested students should fill out the interest survey [here](https://forms.gle/J1qGE3ppTvqSvESF7) and send a resume to Research Technician Taylor Hatcher (thatche1@uw.edu), preferably by March 7 for initial consideration. 
 
 
-### Jan 2025: RESEARCH TECHNICIAN: Butterfly Evolutionary Responses to Climate Change
+## Jan 2025: RESEARCH TECHNICIAN: Butterfly Evolutionary Responses to Climate Change
 The University of Washington (UW) Biology research group led by Professor Lauren Buckley is recruiting research technician(s) to manage, coordinate, and conduct research activities for a project repeating historical butterfly research to examine ecological and evolutionary responses to climate change. The project is funded by the National Science Foundation Organismal Responses to Climate Change Program. Project collaborators include Adam Steinbrenner from UW, Gwen Shlichta from Edmonds College, and Joel Kingsolver from the University of North Carolina.
 
 The research will include laboratory research in Seattle, WA and field research in central (Corfu) Washington. Research activities include lab rearing, maintenance, and thermal physiological assessments of butterfly caterpillars; growing host plants; maintaining and trait assessments of adult butterflies; mark-release-recapture experiments of adult butterflies; and photographing and analyzing adult wing traits. There is potential to participate in genetic assessments, model development, data analysis, scientific literature searching and synthesizing, scientific editing and writing, and scientific communication. 
