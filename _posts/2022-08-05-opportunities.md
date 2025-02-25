@@ -29,7 +29,8 @@ Students interested in joining the lab are encouraged to apply for external fell
 - a description of possible graduate research topics and approaches highlighting why the Buckley group would be a good fit for this research
 - a description of career goals
 
-## OPEN POSITIONS: The Buckley Lab has paid or research credit positions open (spring and summer 2025) for UW undergraduate students to contribute to a butterfly resurvey project examining responses to recent climate change. The butterfly resurvey project is testing how selection on butterfly traits has shifted in response to recent climate change. Students will primarily assist with rearing butterfly larvae in environmental chambers and with physiological experiments. There will also be opportunities to participate in butterfly field studies in Central Washington.
+# OPEN POSITIONS: 
+The Buckley Lab has paid or research credit positions open (spring and summer 2025) for UW undergraduate students to contribute to a butterfly resurvey project examining responses to recent climate change. The butterfly resurvey project is testing how selection on butterfly traits has shifted in response to recent climate change. Students will primarily assist with rearing butterfly larvae in environmental chambers and with physiological experiments. There will also be opportunities to participate in butterfly field studies in Central Washington.
 
 # Student Learning Benefit
 Students will learn about biological responses to climate change, gain familiarity with a variety of approaches in physiological ecology and evolution, and receive exposure to academic research and related career opportunities. Students may progress to conducting independent research and presenting the research at UW venues and beyond. 
