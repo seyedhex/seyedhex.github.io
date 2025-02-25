@@ -4,6 +4,9 @@ title: "Opportunities to join our group"
 categories: facts
 tags: [sample]
 image: header_hopper.png
+output: 
+    toc: TRUE
+    toc_depth: 3 
 ---
 We are recruiting undergraduates and a research technician. See below.
 
